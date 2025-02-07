@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GrvPortfolio/static/css/main.319f56c4.css",
-    "main.js": "/GrvPortfolio/static/js/main.132fc3da.js",
+    "main.css": "/GrvPortfolio/static/css/main.4108b7fb.css",
+    "main.js": "/GrvPortfolio/static/js/main.f6b31ad6.js",
     "static/media/radar.png": "/GrvPortfolio/static/media/radar.8b1e2b65769bab132453.png",
     "static/media/supply.png": "/GrvPortfolio/static/media/supply.728c681953c39c7245f2.png",
     "static/media/Enliven.png": "/GrvPortfolio/static/media/Enliven.5947e11ad401b500fc86.png",
@@ -12,11 +12,11 @@
     "static/media/GrvResumee.pdf": "/GrvPortfolio/static/media/GrvResumee.b0e1ce6022c1382d5e25.pdf",
     "static/media/about.jpg": "/GrvPortfolio/static/media/about.fb3b95da545355f6f1f0.jpg",
     "index.html": "/GrvPortfolio/index.html",
-    "main.319f56c4.css.map": "/GrvPortfolio/static/css/main.319f56c4.css.map",
-    "main.132fc3da.js.map": "/GrvPortfolio/static/js/main.132fc3da.js.map"
+    "main.4108b7fb.css.map": "/GrvPortfolio/static/css/main.4108b7fb.css.map",
+    "main.f6b31ad6.js.map": "/GrvPortfolio/static/js/main.f6b31ad6.js.map"
   },
   "entrypoints": [
-    "static/css/main.319f56c4.css",
-    "static/js/main.132fc3da.js"
+    "static/css/main.4108b7fb.css",
+    "static/js/main.f6b31ad6.js"
   ]
 }
