@@ -24,7 +24,7 @@ algorithm optimization.
                     </p>
 
                     <a download="" href={CV} className="button button--flex">
-                        Grv_Resume
+                        Gaurav_Resume
                         <svg
                             className="button__icon"
                             xmlns="http://www.w3.org/2000/svg"
